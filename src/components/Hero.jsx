@@ -38,7 +38,7 @@ const Hero = () => {
       >
         <div className="p-10 rounded-3xl  w-full h-full  flex flex-col justify-center">
           <motion.h1 className="text-6xl sm:text-5xl font-black mb-6 leading-tight font-bangers">
-            TRUMP PRINTER
+         TRUMP REWARD
           </motion.h1>
           <motion.p className="text-xl mb-8 text-gray-700">
             THE FIRST TRUMP REWARD TOKEN. HOLD TRRR. EARN TRUMP.
