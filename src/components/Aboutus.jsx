@@ -13,7 +13,7 @@ const AboutUs = () => {
   };
 
   return (
-    <div className=" py-20 px-4 sm:px-6 lg:px-8">
+    <div className=" py-20 px-4 sm:px-6 lg:px-8" id="about">
       <div className="max-w-7xl mx-auto flex flex-col lg:flex-row items-center gap-12">
         
         {/* Left Side - Image/Video */}

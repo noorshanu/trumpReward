@@ -25,6 +25,7 @@ const Hero = () => {
   return (
     <motion.div 
       className="flex flex-col lg:flex-row items-center justify-between max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-24 pb-12 min-h-[600px]"
+      id="community"
       variants={containerVariants}
       initial="hidden"
       whileInView="show"

@@ -33,7 +33,7 @@ const Tokenomics = () => {
   };
 
   return (
-    <div className="relative  py-10 px-5 min-h-screen overflow-hidden">
+    <div className="relative  py-10 px-5 min-h-screen overflow-hidden" id="tokenomics">
       <Toaster position="top-center" reverseOrder={false} />
       {confetti && <Confetti numberOfPieces={150} recycle={false} />}
 
