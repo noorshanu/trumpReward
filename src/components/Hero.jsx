@@ -55,6 +55,9 @@ const Hero = () => {
             </motion.button>
             <motion.button
               whileHover={{ scale: 1.05 }}
+              href="https://t.me/trumptrrr"
+              target="_blank"
+              rel="noopener noreferrer"
               className="bg-teal-600 hover:bg-teal-700 text-white px-8 py-3 rounded-full font-bold transition-all shadow-md"
             >
               Join Community
