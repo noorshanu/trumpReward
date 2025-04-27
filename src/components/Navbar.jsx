@@ -43,10 +43,10 @@ const Navbar = () => {
 
           {/* Social Icons + CTA */}
           <div className="hidden md:flex items-center space-x-4">
-            <a href="https://twitter.com" target="_blank" rel="noopener noreferrer" className="text-black hover:text-orange-600 transition">
+            <a href="https://x.com/rewards_trump" target="_blank" rel="noopener noreferrer" className="text-black hover:text-orange-600 transition">
               <Twitter size={22} />
             </a>
-            <a href="https://t.me" target="_blank" rel="noopener noreferrer" className="text-black hover:text-orange-600 transition">
+            <a href="https://t.me/trumptrrr" target="_blank" rel="noopener noreferrer" className="text-black hover:text-orange-600 transition">
               <Send size={22} />
             </a>
             <a href="#" className="bg-orange-400 hover:bg-orange-500 text-white font-bold py-2 px-4 rounded-full shadow-md transition-all">
@@ -86,10 +86,10 @@ const Navbar = () => {
             Community
           </Link>
           <div className="flex gap-4 pt-6">
-            <a href="https://twitter.com" target="_blank" rel="noopener noreferrer" className="text-black hover:text-orange-600">
+            <a href="https://x.com/rewards_trump" target="_blank" rel="noopener noreferrer" className="text-black hover:text-orange-600">
               <Twitter size={24} />
             </a>
-            <a href="https://t.me" target="_blank" rel="noopener noreferrer" className="text-black hover:text-orange-600">
+            <a href="https://t.me/trumptrrr" target="_blank" rel="noopener noreferrer" className="text-black hover:text-orange-600">
               <Send size={24} />
             </a>
           </div>

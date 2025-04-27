@@ -77,7 +77,7 @@ const Tokenomics = () => {
             <tbody className="text-gray-700">
               <tr className="border-b border-dotted">
                 <td className="py-2 font-semibold">Token Name</td>
-                <td className="py-2">TRUMP PRINTER</td>
+                <td className="py-2">TRUMP REWARDS</td>
               </tr>
               <tr className="border-b border-dotted">
                 <td className="py-2 font-semibold">Symbol</td>

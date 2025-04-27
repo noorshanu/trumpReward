@@ -21,10 +21,10 @@ const Footer = () => {
 
         {/* Right Side - Socials */}
         <div className="flex space-x-4">
-          <a href="https://twitter.com" target="_blank" rel="noopener noreferrer" className="text-black hover:text-orange-500 transition">
+          <a href="https://x.com/rewards_trump" target="_blank" rel="noopener noreferrer" className="text-black hover:text-orange-500 transition">
             <Twitter size={24} />
           </a>
-          <a href="https://t.me" target="_blank" rel="noopener noreferrer" className="text-black hover:text-orange-500 transition">
+          <a href="https://t.me/trumptrrr" target="_blank" rel="noopener noreferrer" className="text-black hover:text-orange-500 transition">
             <Send size={24} />
           </a>
         </div>
