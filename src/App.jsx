@@ -1,11 +1,11 @@
 import Navbar from "./components/Navbar"
-import Hero from "./components/hero"
+import Hero from "./components/Hero"
 import TokenInfo from "./components/TokenInfo"
 import ContractAddress from "./components/ContractAddress"
 import Footer from "./components/Footer"
 import AboutUs from "./components/Aboutus"
 import ScrollToTop from "./components/ScrollToTop"
-import FloatingButtons from "./components/FloatingButton"
+
 function App() {
   
 
