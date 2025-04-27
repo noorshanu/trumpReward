@@ -43,6 +43,9 @@ const Hero = () => {
           <motion.p className="text-xl mb-8 text-gray-700">
             THE FIRST TRUMP REWARD TOKEN. HOLD TRRR. EARN TRUMP.
           </motion.p>
+          <motion.p className="text-lg mb-6 text-gray-600">
+            Experience the power of automatic Trump rewards every 5 minutes. No staking, no claiming - just pure passive income for true patriots.
+          </motion.p>
           <motion.div className="flex flex-wrap gap-4">
             <motion.button
               whileHover={{ scale: 1.05 }}

@@ -40,6 +40,9 @@ const AboutUs = () => {
           <h2 className="text-5xl font-extrabold mb-4 text-gray-900 font-bangers">
             About <span className="text-orange-400">TRUMP PRINTER</span>
           </h2>
+          <p className="text-sm text-gray-500 mb-4 italic">
+            The revolutionary token that prints Trump rewards every 5 minutes
+          </p>
           <p className="text-lg text-gray-600 mb-6 leading-relaxed">
             Discover the story behind the <strong>first Trump rewards token</strong> in the blockchain universe.
             Hold $TRRR and passively earn Trump2X rewards automatically.
