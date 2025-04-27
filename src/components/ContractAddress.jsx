@@ -4,7 +4,7 @@ import Confetti from 'react-confetti';
 
 const ContractAddress = () => {
     const [confetti, setConfetti] = useState(false);
-    const address = "Gom5MqTo1QmoUYvt139DJ938gaRvYS2qCoN5hCbjyTdQ";
+    const address = "3Afpok96ukX9FJrqsgGUxY8H6umRdCCUqGikYnfetDeP";
 
     const copyContract = () => {
         navigator.clipboard.writeText(address).then(() => {

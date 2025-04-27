@@ -9,7 +9,7 @@ const Tokenomics = () => {
   const [confetti, setConfetti] = useState(false);
 
   const copyContract = () => {
-    const text = "Gom5MqTo1QmoUYvt139DJ938gaRvYS2gCoN5hCbjyTdQ";
+    const text = "3Afpok96ukX9FJrqsgGUxY8H6umRdCCUqGikYnfetDeP";
     navigator.clipboard.writeText(text).then(() => {
       setConfetti(true);
       setTimeout(() => setConfetti(false), 2000);
@@ -98,7 +98,7 @@ const Tokenomics = () => {
               <tr>
                 <td className="py-2 font-semibold">Contract</td>
                 <td className="py-2 flex items-center gap-2">
-                  <span className="truncate max-w-[160px]">Gom5MqTo1QmoUYvt139DJ938gaRvYS2gCoN5hCbjyTdQ</span>
+                  <span className="truncate max-w-[160px]">3Afpok96ukX9FJrqsgGUxY8H6umRdCCUqGikYnfetDeP</span>
                   <button
                     onClick={copyContract}
                     className="bg-orange-400 hover:bg-orange-500 text-white p-1 px-2 rounded-md text-sm neon-glow"
