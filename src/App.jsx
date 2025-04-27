@@ -3,6 +3,9 @@ import Hero from "./components/hero"
 import TokenInfo from "./components/TokenInfo"
 import ContractAddress from "./components/ContractAddress"
 import Footer from "./components/Footer"
+import AboutUs from "./components/Aboutus"
+import ScrollToTop from "./components/ScrollToTop"
+import FloatingButtons from "./components/FloatingButton"
 function App() {
   
 
@@ -16,8 +19,11 @@ function App() {
        
           <ContractAddress/>
           <TokenInfo/>
+          <AboutUs/>  
         </main>
         <Footer/>
+        <ScrollToTop/>
+        {/* <FloatingButtons/> */}
         
        </div>
     </>
